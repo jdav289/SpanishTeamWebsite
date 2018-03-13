@@ -1,0 +1,50 @@
+body {
+  font-family: verdana;
+  background-color: grey;
+  text-align: center;
+
+}
+
+h2 {font-size: 25px;
+font-weight: 600;
+color: white;
+background-color: #E1BC29}
+
+h3
+{text-align: left;
+  text-decoration: underline;
+}
+
+p {
+  font-weight: 100;
+  font-size: 20px
+}
+
+
+#Title_Selector
+{font-size: 35px;
+color: #E15554}
+
+
+#widthimage
+{width: 200px}
+
+.coaching
+  {font-size: 20px;
+  font-weight:100;
+  text-align: left;
+  list-style-type: circle;
+}
+
+.cappedplayer
+{font-size: 20px;
+font-weight:500;
+text-align: left;
+}
+
+.activeplayer
+{font-size: 20px;
+font-weight:500;
+text-align: left;
+font-weight: bold;
+}
